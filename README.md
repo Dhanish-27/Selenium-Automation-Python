@@ -34,9 +34,9 @@ This project is a great starting point for anyone learning **manual-to-automatio
 
 ## 📂 Project Structure  
 📁 selenium-login-automation
-┣ 📜 login_test.py # Main script with data-driven test cases
-┣ 📜 requirements.txt # Project dependencies (selenium)
-┗ 📄 README.md # Project documentation (this file)
+- ┣ 📜 login_test.py # Main script with data-driven test cases
+- ┣ 📜 requirements.txt # Project dependencies (selenium)
+- ┗ 📄 README.md # Project documentation (this file)
 
 
 ---
@@ -54,8 +54,8 @@ python testing.py
 ```
 
 ## 🧪 Sample Output
-✅ Test Passed for student | Expected: PASS
-✅ Test Passed for student | Expected: FAIL
-✅ Test Passed for wronguser | Expected: FAIL
-✅ Test Passed for  | Expected: FAIL
-✅ Test Passed for student | Expected: FAIL
+- ✅ Test Passed for student | Expected: PASS
+- ✅ Test Passed for student | Expected: FAIL
+- ✅ Test Passed for wronguser | Expected: FAIL
+- ✅ Test Passed for  | Expected: FAIL
+- ✅ Test Passed for student | Expected: FAIL
